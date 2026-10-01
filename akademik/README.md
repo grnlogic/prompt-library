@@ -19,6 +19,7 @@ Kumpulan prompt untuk kebutuhan akademik: penulisan ilmiah, laporan, dan present
 | File | Deskripsi | Model yang Direkomendasikan |
 |------|-----------|---------------------------|
 | [`penulisan-ilmiah/rapikan-abstrak-jurnal.md`](./penulisan-ilmiah/rapikan-abstrak-jurnal.md) | Merapikan dan menyempurnakan abstrak jurnal ilmiah | GPT-4, Claude 3.5 |
+| [`penulisan-ilmiah/prompt-docs-akademik.md`](./penulisan-ilmiah/prompt-docs-akademik.md) | Prompt reusable untuk membuat berbagai dokumen akademik (laporan, makalah, proposal, artikel) — format monochrome, anti-hallucination | Claude 3.5 Sonnet |
 
 ---
 

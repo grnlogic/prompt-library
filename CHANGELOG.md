@@ -9,6 +9,9 @@ dan repo ini menggunakan [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ## [Unreleased]
 
+### Changed
+- `prompt-docs-akademik.md` dipindahkan ke `akademik/penulisan-ilmiah/` (folder yang sesuai)
+
 ## [0.1.0] - 2026-10-01
 
 ### Added
